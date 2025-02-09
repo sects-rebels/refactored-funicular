@@ -3,7 +3,7 @@
 """
 Created on Sat Feb  8 21:26:18 2025
 
-@author: aidenhall
+@author:sects-rebels 
 """
 import os
 import numpy as np
